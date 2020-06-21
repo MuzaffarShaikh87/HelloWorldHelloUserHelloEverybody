@@ -8,3 +8,4 @@ App must be written in C#
 .exe must be delivered to client
 Source code must be delivered to client
 Maintenance and new features must be handled by clients nephew.
+https://trello.com/b/RquPf9Hb/c-introduction-hello-world
